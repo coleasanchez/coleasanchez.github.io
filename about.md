@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Cole Alexander Sanchez is currently an undergraduate student at [California Polytechnic State University](calpoly.edu) currently pursuing a B.S. in Chemistry.
 
 ### More Information
 
