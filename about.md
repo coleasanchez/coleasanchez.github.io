@@ -12,5 +12,5 @@ In addition to his studies, Cole spends a lot of his free time being active and 
 
 ### Contact me
 
-Personal email: [colesanchez68@gmail.com](mailto:colesanchez68@gmail.com)/
-University email: [csanc101@calpoly.edu](mailto:csanc101@calpoly.edu)/
+Personal email: [colesanchez68@gmail.com](mailto:colesanchez68@gmail.com)
+University email: [csanc101@calpoly.edu](mailto:csanc101@calpoly.edu)
