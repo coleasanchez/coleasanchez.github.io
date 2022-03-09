@@ -4,5 +4,5 @@ title: Group Members
 permalink: /people/
 ---
 
-![logo](https://raw.githubusercontent.com/coleasanchez/coleasanchez.github.io/master/images/IMG_1335.jpg) 
+![logo](https://raw.githubusercontent.com/coleasanchez/coleasanchez.github.io/master/images/IMG_1335.JPG) 
 Cole A. Sanchez
