@@ -9,6 +9,7 @@ Cole Alexander Sanchez is currently an undergraduate student at [California Poly
 ### More Information
 
 In addition to his studies, Cole spends a lot of his free time being active and is an avid weightlifter and competes with the Cal Poly Roundnet team.
+![logo](https://raw.githubusercontent.com/coleasanchez/coleasanchez.github.io/master/images/img_1335-3.jpg)
 
 ### Contact me
 
